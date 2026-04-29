@@ -1,5 +1,5 @@
-# 🛒 E-Commerce Manual QA Portfolio
-### WooCommerce Web + Mobile Testing — End-to-End Manual QA
+# 🛒 E-Commerce Manual QA Test Suite
+### WooCommerce Web + Mobile Testing — Test Plan, Scenarios, Test Cases, Defects, RTM
 
 [![Test Cases](https://img.shields.io/badge/Test%20Cases-35-blue)]()
 [![Bugs Found](https://img.shields.io/badge/Bugs%20Found-12-red)]()
@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Web%20%2B%20Mobile-green)]()
 
 ## 📌 Project Summary
-Executed a full manual QA cycle on a WooCommerce e-commerce storefront, covering authentication, product catalog, product detail pages, cart, checkout, order management, and responsive behaviour across web and mobile platforms. Identified 12 defects, including Critical issues with financial and UX impact.
+Executed a full manual QA cycle on a WooCommerce e-commerce storefront and documented the complete QA artifact set: test plan, high-level scenarios, manual test cases, defect reports, exploratory charters, requirements traceability matrix, and final test summary report. Coverage includes authentication, product catalog, product detail pages, cart, checkout, order management, and responsive behaviour across web and mobile platforms.
 
 ## 🎯 What Was Tested
 | Module | Test Cases | Bugs Found |
