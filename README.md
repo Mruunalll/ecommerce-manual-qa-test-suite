@@ -54,5 +54,10 @@ Executed a full manual QA cycle on a WooCommerce e-commerce storefront and docum
 | Loom | Screen recording for defect evidence |
 | Excel | Test case management and execution tracking |
 
+## 🔗 See Also
+- [WordPress Astra QA Suite](https://github.com/Mruunalll/wordpress-astra-qa-test-suite)
+- [AI Application QA Suite](https://github.com/Mruunalll/ai-application-qa-test-suite)
+- [SureForms Plugin QA + Automation](https://github.com/Mruunalll/SureForms-Plugin-Test-Suite-Manual-Automation)
+
 ## 👤 Author
 **Mrunal** | Manual QA Engineer | [GitHub](https://github.com/Mruunalll)
